@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/bin/Debug/netcoreapp2.0/Time Display.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/bin/Debug/netcoreapp2.0/Time Display.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/bin/Debug/netcoreapp2.0/Time Display.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/bin/Debug/netcoreapp2.0/Time Display.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/bin/Debug/netcoreapp2.0/Time Display.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/obj/Debug/netcoreapp2.0/Time Display.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/obj/Debug/netcoreapp2.0/Time Display.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/obj/Debug/netcoreapp2.0/Time Display.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/obj/Debug/netcoreapp2.0/Time Display.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Time Display/obj/Debug/netcoreapp2.0/Time Display.pdb

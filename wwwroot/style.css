@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2, div, span {
+    text-align: center;
+}
+
+div {
+    display: table;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 2rem 4rem;
+}
+span {
+    display: block;
+    font-size: 1.5rem;
+    padding: 10px 0;
+}
